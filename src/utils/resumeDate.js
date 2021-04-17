@@ -28,7 +28,7 @@ import FoodR from '../assets/images/FoodR.JPG';
 import FoodR1 from '../assets/images/FoodR1.JPG';
 
 const ResumeData = {
-    name:"Sanny Kumar",
+    name:"Nikhil Chandra",
     title:"Front-end Developer",
     birthday:"25th Dec 1999",
     address:"Bhramarpur, Bihpur, Bhagalpur",
