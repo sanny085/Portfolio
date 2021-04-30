@@ -15,8 +15,6 @@ import ResumeData from "../../utils/resumeDate";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav,  Button } from 'react-bootstrap';
 
- 
- 
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 
@@ -25,8 +23,6 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent'; 
 import DialogTitle from '@material-ui/core/DialogTitle';
 import Gallery from '../../components/ImageGallery/Gallery';
- 
-
 
 function Portfolio() {
     const [tabvalue, setTabvalue] = useState("All");
