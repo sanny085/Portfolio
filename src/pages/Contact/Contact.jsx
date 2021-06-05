@@ -66,7 +66,8 @@ const Contact = () => {
                           <Grid item className="contactInfo_social" >
                             <a href={ResumeData.socials[key].url} key={key.icon} target="_blank" rel="noreferrer">{ResumeData.socials[key].icon}</a>
                           </Grid>
-                      ))} 
+                       ))}
+                        
                     </Grid>
                   </Grid>
                 </Grid>
