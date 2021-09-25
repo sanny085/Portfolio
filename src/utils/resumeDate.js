@@ -29,7 +29,7 @@ import FoodR1 from '../assets/images/FoodR1.JPG';
 
 const ResumeData = {
     name:"Sanny Kumar",
-    title:"Software Engineer",
+    title:"Software Engineer 1",
     birthday:"25th Dec 1999",
     address:"Bhramarpur, Bihpur, Bhagalpur",
     Job:'Fresher',
