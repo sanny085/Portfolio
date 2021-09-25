@@ -118,17 +118,19 @@ about: `I am Sanny Kumar completed my B-tech from Computer Science & Engineering
       description: [
         "ReactJS",
         "JavaScript",
+        "GatsbyJS",
+        "Tailwind CSS",
         "Bootstrap",
         "Material UI",
       ],
     },
     {
       title: "BACK-END",
-      description: ["PHP", "JAVA"],
+      description: ["NodeJS", "PHP"],
     },
     {
       title: "DATABASES",
-      description: ["Firebase", "Ms SQL Server", "MySQL"],
+      description: ["GraphQL", "Firebase", "Ms SQL Server", "MySQL"],
     },
     {
       title: "SOURCE CONTROL",
