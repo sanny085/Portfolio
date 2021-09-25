@@ -20,6 +20,8 @@ import googleKeep1 from '../assets/images/googleKeep1.JPG';
 import googleKeep2 from '../assets/images/googleKeep2.JPG';
 import amazonClone1 from '../assets/images/amazonClone1.JPG';
 import amazonClone2 from '../assets/images/amazonClone2.JPG';
+import NetflixClone1 from '../assets/images/NetflixClone1.JPG'
+import NetflixClone2 from '../assets/images/NetflixClone2.JPG'
 import KINGA from '../assets/images/KINGA.JPG';
 import KINGB from '../assets/images/KINGB.JPG';
 import Aierst from '../assets/images/Aierst.JPG';
@@ -293,6 +295,26 @@ about: `I am Sanny Kumar completed my B-tech from Computer Science & Engineering
         },
         { 
           link:'https://github.com/sanny085/amazon-clone',
+          icon:<GitHubIcon/>
+        },
+      ],  
+    },
+    {
+      tag:'React',
+      image:[
+        NetflixClone1,
+        NetflixClone2,
+      ],
+      title:'Netflix Clone',
+      caption:'Super smooth movie web app with the help of React and TMDB API',
+      description:"This project imitates the fully Movie Web App Functionality. I created separate components (Screens) for Home, Login, Sign up, Banner. Implementation of TMDB API for different types of movie genres. Movie would be change depending on movie Api. To sign a user into this app uses Firebase Authentication to allow users to sign in to my app using one or more sign-in methods, including email address and password sign-in.",
+      links:[
+        { 
+          link:'https://netflix-clone-dca4d.web.app/',
+          icon:<VisibilityIcon/>
+        },
+        { 
+          link:'https://github.com/sanny085/netflix-clone',
           icon:<GitHubIcon/>
         },
       ],  
